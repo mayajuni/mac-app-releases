@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Pikt</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 25 Mar 2026 05:39:54 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.1-2/Pikt-0.1.1-2.zip" length="4060355" type="application/octet-stream" sparkle:edSignature="dNm/TNf7+psvXlYqUQpuPJqloXoWNqtjzv58thTZLNImKZeAJREoVTKOnINuMnqSTq7YaZccn4PjcMKjAy0NAA=="/>
+        </item>
+    </channel>
+</rss>
