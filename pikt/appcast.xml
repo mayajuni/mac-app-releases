@@ -3,12 +3,23 @@
     <channel>
         <title>Pikt</title>
         <item>
+            <title>0.1.3</title>
+            <pubDate>Wed, 25 Mar 2026 14:52:02 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.3/Pikt-0.1.3.zip" length="4347769" type="application/octet-stream" sparkle:edSignature="CPZwpL1iSSjtNSKsVffD6JfSlf4a69V3PdOGAPEPukqHTHRLZtli7Kf3MbrGd0KL5lOlATf8ZYNJe27tG7rfCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.3/Pikt4-3.delta" sparkle:deltaFrom="3" length="336598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pf5EQn5/bfiPK3sfUQaJNlES3y8TDnm+66AZQYkEbW9i45KIIMdUn5Mqcv9lVtv6GocnvvAZi6udHMGJtXNEAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Wed, 25 Mar 2026 09:42:19 +0900</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.2-3/Pikt-0.1.2-3.zip" length="4058107" type="application/octet-stream" sparkle:edSignature="1Oic4Wpx0OKUR2W3vuDNimvJ+qHbenb0oyhTf0PFiKnU+6t32tw8Kbe1KDHGjRFOer/VtOXRRZQBZryAd8wsDQ=="/>
+            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.3/Pikt-0.1.2-3.zip" length="4058107" type="application/octet-stream" sparkle:edSignature="1Oic4Wpx0OKUR2W3vuDNimvJ+qHbenb0oyhTf0PFiKnU+6t32tw8Kbe1KDHGjRFOer/VtOXRRZQBZryAd8wsDQ=="/>
         </item>
     </channel>
 </rss>
