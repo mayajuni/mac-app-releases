@@ -3,12 +3,12 @@
     <channel>
         <title>Pikt</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Wed, 25 Mar 2026 05:39:54 +0900</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <title>0.1.2</title>
+            <pubDate>Wed, 25 Mar 2026 09:42:19 +0900</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.1-2/Pikt-0.1.1-2.zip" length="4060376" type="application/octet-stream" sparkle:edSignature="OQwpx+HzewWs6Ph9gjeFcngy3DFiuyomklaEy2ahAeQEKkpUULvswJbfZ1d1d0cyJVFGuIWzmrlLwUNCsGEIAQ=="/>
+            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.2-3/Pikt-0.1.2-3.zip" length="4058107" type="application/octet-stream" sparkle:edSignature="1Oic4Wpx0OKUR2W3vuDNimvJ+qHbenb0oyhTf0PFiKnU+6t32tw8Kbe1KDHGjRFOer/VtOXRRZQBZryAd8wsDQ=="/>
         </item>
     </channel>
 </rss>
