@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.1-2/Pikt-0.1.1-2.zip" length="4060355" type="application/octet-stream" sparkle:edSignature="dNm/TNf7+psvXlYqUQpuPJqloXoWNqtjzv58thTZLNImKZeAJREoVTKOnINuMnqSTq7YaZccn4PjcMKjAy0NAA=="/>
+            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.1-2/Pikt-0.1.1-2.zip" length="4060376" type="application/octet-stream" sparkle:edSignature="OQwpx+HzewWs6Ph9gjeFcngy3DFiuyomklaEy2ahAeQEKkpUULvswJbfZ1d1d0cyJVFGuIWzmrlLwUNCsGEIAQ=="/>
         </item>
     </channel>
 </rss>
