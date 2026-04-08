@@ -3,12 +3,26 @@
     <channel>
         <title>Pikt</title>
         <item>
+            <title>0.1.6</title>
+            <pubDate>Wed, 08 Apr 2026 13:27:14 +0900</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.6/Pikt-0.1.6.zip" length="4374282" type="application/octet-stream" sparkle:edSignature="ZbZ0tLwsTFnrp5mvB4yTrenxRr82oVJ4WChRtEjnFtVrMELFgPMMCZqcFoNlTVDWphDdk1AhXKLO2OMcJpx6Dg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.6/Pikt7-6.delta" sparkle:deltaFrom="6" length="156650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FRlnqCo8UlKHwrnd79nXFfUuCujl8hMnzA5AYY6l2PCENT96nmEiO+iDSQ82eKwPlxq/S1CJxp+AFUPOF2KSBA=="/>
+                <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.6/Pikt7-5.delta" sparkle:deltaFrom="5" length="184146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OUrmtTeDRkfTGCF8TaQMEQDpYnrygH6TCb/WbVfQFgBMtChs9YBczEgAiI0ymIdCXmwqkn3BkR74NOUgE/sqAw=="/>
+                <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.6/Pikt7-4.delta" sparkle:deltaFrom="4" length="207878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C1DD6noXGqAHnAyy4/8E4UrETp03woLBikERQEeZ2NUteaG4jxSxG+CADUvnQOnlqalfONkCnnriMDHaiRMHAA=="/>
+                <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.6/Pikt7-3.delta" sparkle:deltaFrom="3" length="396614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/izpRhZMZA1gpdc7HXPU+pgzBrg9ghIeNhcSYKDY4sQzgvEzBbEsPTYfLR6gna1bR5ntBmvqJP3hozG9hM/BBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.5</title>
             <pubDate>Mon, 06 Apr 2026 17:06:29 +0900</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.5/Pikt-0.1.5.zip" length="4340816" type="application/octet-stream" sparkle:edSignature="4dzaWjWIIuLL4BygI6IAe5WdlVoM/ZLOdoPxqbYONc13xb9SUfixlrLEH28TnNZUtsVZs8RZmG/zjj0iPfoODg=="/>
+            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.6/Pikt-0.1.5.zip" length="4340816" type="application/octet-stream" sparkle:edSignature="4dzaWjWIIuLL4BygI6IAe5WdlVoM/ZLOdoPxqbYONc13xb9SUfixlrLEH28TnNZUtsVZs8RZmG/zjj0iPfoODg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.5/Pikt6-5.delta" sparkle:deltaFrom="5" length="128362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oEXK2FtvgDz327/m9W0CGfg57PvIcGUymajVgVy6kgO+mE2gfSfPyZm1CjfnuYDY3VV69kv+c8AiBR8NXcd6AQ=="/>
                 <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.5/Pikt6-4.delta" sparkle:deltaFrom="4" length="162906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wcVmqnegcupUz6UIYX0E3DTUIRd6BqYxlxpbC9VkeWX76OXZpkT8wuUsEuJ6eMNmwcQyY7nWFs8ELrAYibasCA=="/>
@@ -21,21 +35,10 @@
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.5/Pikt-0.1.4.zip" length="4335244" type="application/octet-stream" sparkle:edSignature="3Z91aghtdGpCkAWlXVl3l56TIf9JXN0SCSVBPF9RaaQ1PoPXE8L8Qbn7VbVuaELV5oqwuf5+277M5DCRopi3Bg=="/>
+            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.6/Pikt-0.1.4.zip" length="4335244" type="application/octet-stream" sparkle:edSignature="3Z91aghtdGpCkAWlXVl3l56TIf9JXN0SCSVBPF9RaaQ1PoPXE8L8Qbn7VbVuaELV5oqwuf5+277M5DCRopi3Bg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.4/Pikt5-4.delta" sparkle:deltaFrom="4" length="133922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L8ipWqTobpQButaoUFthMHWR+q3Gjavdhq7ok0xR4RzZun44+vPEStz4oYo0dv4PNJRXmYSwXBuVGhIBLRAXCg=="/>
                 <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.4/Pikt5-3.delta" sparkle:deltaFrom="3" length="349218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B+b5cdovGuc9gUVQibyeuuYkUUPJArgqs1LRULsFci6h0elgLHrxH5TmZ/ROx7XI9SpebcefkvffBQyd+cpnAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.3</title>
-            <pubDate>Wed, 25 Mar 2026 14:52:02 +0900</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.5/Pikt-0.1.3.zip" length="4347769" type="application/octet-stream" sparkle:edSignature="CPZwpL1iSSjtNSKsVffD6JfSlf4a69V3PdOGAPEPukqHTHRLZtli7Kf3MbrGd0KL5lOlATf8ZYNJe27tG7rfCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/mayajuni/mac-app-releases/releases/download/pikt-v0.1.3/Pikt4-3.delta" sparkle:deltaFrom="3" length="336598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pf5EQn5/bfiPK3sfUQaJNlES3y8TDnm+66AZQYkEbW9i45KIIMdUn5Mqcv9lVtv6GocnvvAZi6udHMGJtXNEAQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
